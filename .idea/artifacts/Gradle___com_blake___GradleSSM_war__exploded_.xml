@@ -1,10 +1,8 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="Gradle : com.blake : GradleSSM.war (exploded)">
-    <output-path>$PROJECT_DIR$/build/libs/exploded/GradleSSM.war</output-path>
+    <output-path>$PROJECT_DIR$/out/exploded/GradleSSM.war</output-path>
     <properties id="gradle-properties">
-      <options external-project-path="$PROJECT_DIR$">
-        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
-      </options>
+      <options external-project-path="$PROJECT_DIR$" />
     </properties>
     <root id="root">
       <element id="directory" name="META-INF">
