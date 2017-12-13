@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : com.blake : GradleSSM.war">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="archive" name="GradleSSM.war">
+      <element id="artifact" artifact-name="Gradle : com.blake : GradleSSM.war (exploded)" />
+    </root>
+  </artifact>
+</component>
